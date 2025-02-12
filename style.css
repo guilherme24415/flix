@@ -17,7 +17,7 @@ header {
 }
 
 .chamada {
-    background: black;
+    background: rgb(221, 48, 0);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -86,7 +86,7 @@ p {
 .categoria-videos {
     display: flex;
     overflow-x: auto;
-    scrollbar-color: rgb(0, 195, 255) black;
+    scrollbar-color: rgb(0, 195, 255) rgb(221, 48, 0);
     scrollbar-width: thin;
     gap: 10px;
 }
